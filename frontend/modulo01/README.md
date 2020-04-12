@@ -4,3 +4,4 @@
 - Configurando Babel
 - Configurando Webpack
 - Componentização
+- Propriedades
