@@ -6,3 +6,4 @@
 - Componentização
 - Propriedades
 - Estado e Imutabilidade
+- Importando CSS e Imagens
