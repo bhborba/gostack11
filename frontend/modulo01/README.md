@@ -5,3 +5,4 @@
 - Configurando Webpack
 - Componentização
 - Propriedades
+- Estado e Imutabilidade
