@@ -3,3 +3,4 @@
 - Arquitetura React Native
 - Configurando SDK
 - Criando novo projeto
+- Diferenças do ReactJS
