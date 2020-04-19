@@ -4,3 +4,4 @@
 - Configurando SDK
 - Criando novo projeto
 - Diferenças do ReactJS
+- Listando projetos da API
