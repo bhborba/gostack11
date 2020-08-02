@@ -6,7 +6,7 @@ const usersRouter = Router();
 
 usersRouter.post('/', async (req, res) => {
   try {
-    const { name, email, password } = req.body();
+    const { name, email, password } = req.body;
 
     const createUser = new CreateUserService();
 
@@ -15,6 +15,8 @@ usersRouter.post('/', async (req, res) => {
       email,
       password,
     });
+
+    delete user.password;
 
     return res.json(user);
   } catch (err) {
